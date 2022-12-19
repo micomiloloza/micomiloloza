@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micomiloloza
 - 🍎 iOS developer
-- 🌱 I’m currently learning Vapor web framework
+- 🌱 Currently learning Vapor web framework
 
 <!---
 micomiloloza/micomiloloza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
